@@ -1,0 +1,28 @@
+{
+  "name": "node_hangman",
+  "version": "1.0.0",
+  "description": "Hangman Game in nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamTh3Walrus/Week11-Hangman.git"
+  },
+  "keywords": [
+    "handgman",
+    "nodejs"
+  ],
+  "author": "Stephen Doe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamTh3Walrus/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/IamTh3Walrus/Week11-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "prompt": "^1.0.0",
+    "request": "^2.73.0"
+  }
+}
