@@ -22,6 +22,7 @@
   "homepage": "https://github.com/IamTh3Walrus/Week11-Hangman#readme",
   "dependencies": {
     "inquirer": "^1.1.2",
+    "mysql": "^2.11.1",
     "prompt": "^1.0.0",
     "request": "^2.73.0"
   }
